@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "truong1",
+        "age": 1
+    },{
+        "id": 2,
+        "name": "truong2",
+        "age": 2
+    },{
+        "id": 3,
+        "name": "truong3",
+        "age": 3
+    },{
+        "id": 4,
+        "name": "truong4",
+        "age": 4
+    },{
+        "id": 5,
+        "name": "truong5",
+        "age": 5
+    }
+]

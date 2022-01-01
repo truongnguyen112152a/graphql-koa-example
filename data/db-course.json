@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "HTML",
+        "price": 300,
+        "teacher": "t1",
+        "userID": 1
+    },{
+        "id": 2,
+        "name": "CSS",
+        "price": 500,
+        "teacher": "t2",
+        "userID": 1
+    },{
+        "id": 3,
+        "name": "JS",
+        "price": 700,
+        "teacher": "t3",
+        "userID": 2
+    },{
+        "id": 4,
+        "name": "NodeJS",
+        "price": 1000,
+        "teacher": "t4",
+        "userID": 3
+    },{
+        "id": 5,
+        "name": "PHP",
+        "price": 1000,
+        "teacher": "t4",
+        "userID": 4
+    },{
+        "id": 6,
+        "name": "Java",
+        "price": 1000,
+        "teacher": "t4",
+        "userID": 5
+    },{
+        "id": 6,
+        "name": ".Net",
+        "price": 1000,
+        "teacher": "t4",
+        "userID": 4
+    }
+]

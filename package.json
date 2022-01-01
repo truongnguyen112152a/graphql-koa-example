@@ -1,0 +1,22 @@
+{
+  "name": "graphql-koa-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-koa": "^2.25.1",
+    "dotenv": "^10.0.0",
+    "graphql": "^15.5.1",
+    "koa": "^2.13.1",
+    "koa-mongo": "^1.9.3",
+    "koa-router": "^10.0.0",
+    "nodemon": "^2.0.7"
+  },
+  "type": "module"
+}
